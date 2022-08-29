@@ -7,9 +7,9 @@ I make things on the internet.
 Self employed developer, blogger, YT, running an online school focused on building awesome apps with Ionic. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Münster, Germany
-* 🖥️  See my portfolio at [Devdactic](http://devdactic.com/devblog/)
+* 🖥️  See my portfolio at [Devdactic](https://devdactic.com/devblog/)
 * ✉️  You can contact me at [saimon@devdactic.com](mailto:saimon@devdactic.com)
-* 🚀  I'm currently working on [The Ionic Academy](http://ionicacademy.com/)
+* 🚀  I'm currently working on [The Ionic Academy](https://ionicacademy.com/)
 * ⚡  I'm Captain Ionic.
 
 <a href="https://www.twitter.com/schlimmson" target="_blank" rel="noreferrer"><img
