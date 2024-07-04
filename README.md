@@ -4,13 +4,12 @@ Hi 👋 My name is Simon Grimm
 I make things on the internet.
 ------------------------------
 
-Self employed developer, blogger, YT, running an online school focused on building awesome apps with Ionic. Indie Hacker whenever possible. Bootstrapped.
+Self-employed developer, blogger, YT, running an online school focused on building awesome apps with React Native. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Münster, Germany
-* 🖥️  See my portfolio at [Devdactic](https://devdactic.com/devblog/)
 * ✉️  You can contact me at [saimon@devdactic.com](mailto:saimon@devdactic.com)
-* 🚀  I'm currently working on [The Ionic Academy](https://ionicacademy.com/)
-* ⚡  I'm Captain Ionic.
+* 🚀  I'm currently working on [Galaxies.dev](https://galaxies.dev)
+* ⚡  Previously known as Captain Ionic.
 
 <a href="https://www.twitter.com/schlimmson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/schlimmson?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
