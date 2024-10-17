@@ -7,7 +7,6 @@ I make things on the internet.
 Self-employed developer, blogger, YT, running an online school focused on building awesome apps with React Native. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Münster, Germany
-* ✉️  You can contact me at [saimon@devdactic.com](mailto:saimon@devdactic.com)
 * 🚀  I'm currently working on [Galaxies.dev](https://galaxies.dev)
 * ⚡  Previously known as Captain Ionic.
 
